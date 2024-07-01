@@ -2,12 +2,12 @@ Exploratory Data Analysis on Cab Industry Data
 
 Overview and Problem Description
 
-	XYZ firm wants to invest in the Cab Industry. They want to make a decision based on the data of two cab companies’ data. The two companies named Pink Cab and Yellow Cab. 
+XYZ firm wants to invest in the Cab Industry. They want to make a decision based on the data of two cab companies’ data. The two companies named Pink Cab and Yellow Cab. 
 The goal is to provide data-driven insights in order to show which company is more suitable for investment.
 
 Profits
 
-	One of the most important aspects is the profit of the companies. 
+One of the most important aspects is the profit of the companies. 
  
  ![total_profit_per_cab](https://github.com/okkesd/Cab-Industry-Analysis-for-Investment/assets/110696706/4c9d7d93-5ef6-4fee-9fba-4bfc19ed2853)
 
